@@ -1,0 +1,12 @@
+2026-10-13 11:52:43.543 | INFO | conexão ('127.0.0.1', 58911) encerrada com erro: mensagem mal formada: '9|x|000000'
+2026-10-13 11:52:43.810 | RECV | REQUEST | P1
+2026-10-13 11:52:43.811 | SEND | GRANT | P1
+2026-10-13 11:52:44.749 | INFO | pid 1 já conectado, conexão ('127.0.0.1', 58916) recusada
+2026-10-13 11:52:45.014 | RECV | REQUEST | P2
+2026-10-13 11:52:46.267 | INFO | conexão ('127.0.0.1', 58912) encerrada com erro: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2026-10-13 11:52:46.267 | INFO | P1 desconectou na região crítica, liberação forçada
+2026-10-13 11:52:46.267 | SEND | GRANT | P2
+2026-10-13 11:52:46.268 | RECV | RELEASE | P2
+2026-10-13 11:52:46.268 | RECV | REQUEST | P2
+2026-10-13 11:52:46.268 | SEND | GRANT | P2
+2026-10-13 11:52:46.268 | RECV | RELEASE | P2
